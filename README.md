@@ -4,7 +4,16 @@
 
  I focus on utilizing state-of-the-art mathematical algorithms, software technologies, and machine learning models by developing scientific 3D AI-enabled tools to solve complex problems also, I enjoy identifying the root causes of the problems by mathematical modeling and 3D numerical simulations for physics to mimic the physics behind it.
 
-Skills:  C / C++/ Multithreading / Computational Geometry / SLAM / Image Processing / Machine Learning / Deep Learning  / Computer Vision ·
+## Skills:  
+* C 
+* C++
+* Multithreading 
+* Computational Geometry 
+* Image Processing 
+* Machine Learning 
+* Deep Learning 
+* Computer Vision 
+* SLAM 
 
 - 🔭 I’m currently working on this page. 
 
