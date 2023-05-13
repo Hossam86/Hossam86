@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Hossam Samir from Egypt, I focus on utilizing state-of-the-art mathematical algorithms, software technologies, and machine learning models by developing scientific 3D AI-enabled tools to solve complex problems also, I enjoy identifying the root causes of the problems by mathematical modeling and 3D numerical simulations for physics to mimic the physics behind it. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam86)](https://github.com/anuraghazra/github-readme-stats)
 
