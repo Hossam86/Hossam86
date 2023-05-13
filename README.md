@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hossam
+### Hi there 👋, I'm Hossam
 #### I am Software Engineer with aerospace engineering background 
 ![I am software engineer with aerospace engineering background ](https://media.licdn.com/dms/image/C4D16AQHnHw_020AfZg/profile-displaybackgroundimage-shrink_350_1400/0/1517374825457?e=1689206400&v=beta&t=e9lD0H0KatMSTLtr2vN7WMtbTtnxjKifv6f8OagDK9U)
 
