@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hossam
-#### I am Software Engineer with aerospace engineering background 
+#### I am Software Engineer with Aerospace Engineering Background 
 ![I am software engineer with aerospace engineering background ](https://media.licdn.com/dms/image/C4D16AQHnHw_020AfZg/profile-displaybackgroundimage-shrink_350_1400/0/1517374825457?e=1689206400&v=beta&t=e9lD0H0KatMSTLtr2vN7WMtbTtnxjKifv6f8OagDK9U)
 
  I focus on utilizing state-of-the-art mathematical algorithms, software technologies, and machine learning models by developing scientific 3D AI-enabled tools to solve complex problems also, I enjoy identifying the root causes of the problems by mathematical modeling and 3D numerical simulations for physics to mimic the physics behind it.
