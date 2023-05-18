@@ -16,7 +16,7 @@
 * Computer Vision 
 * SLAM 
 
-- 🔭 I’m currently working on game developemnt using Unreal Engine 5.0 
+- 🔭 I’m currently working on refactoring game from Unity to Unreal Engine 5.0 
 - 🌱 I’m currently learning high frequency trading algorithms 
 - 📫 How to reach me: hossamsamir@outlook.com
 
