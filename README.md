@@ -23,6 +23,7 @@ I have been involved in all software development life cycle phases, from require
 - 🔭 I’m currently working on refactoring game from Unity to Unreal Engine 5.0 
 - 🌱 I’m currently learning high frequency trading algorithms 
 - 📫 How to reach me: hossamsamir@outlook.com
+- 👯 I’m looking to collaborate on opensource project
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam86)](https://github.com/anuraghazra/github-readme-stats)
