@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hossam
 #### I am Software Engineer with Aerospace Engineering Background 
-![I am software engineer with aerospace engineering background ](https://media.licdn.com/dms/image/C4D16AQHnHw_020AfZg/profile-displaybackgroundimage-shrink_350_1400/0/1517374825457?e=1689206400&v=beta&t=e9lD0H0KatMSTLtr2vN7WMtbTtnxjKifv6f8OagDK9U)
+![I am software engineer with aerospace engineering background ]([https://media.licdn.com/dms/image/C4D16AQHnHw_020AfZg/profile-displaybackgroundimage-shrink_350_1400/0/1517374825457?e=1689206400&v=beta&t=e9lD0H0KatMSTLtr2vN7WMtbTtnxjKifv6f8OagDK9U](https://media.licdn.com/dms/image/D4D16AQGxyBg1HTBYaA/profile-displaybackgroundimage-shrink_350_1400/0/1685207456165?e=1690416000&v=beta&t=1yd1dwJdTuQXB2yMRNFxSyYJdHfxUFzubo47nJOfYm0))
 
 Throughout my career, I had the opportunity to work on various projects that involved developing software applications for different industries, such as 3D CAD, Digital Dentistry, and Gaming. Now I focus on utilizing state-of-the-art mathematical modeling, computational geometry, and computer vision algorithms in developing scientific 3D AI-enabled tools to solve complex problems also, I enjoy identifying the root causes of the problems by mathematical modeling, statistical modeling, data models or even  3D numerical simulation to mimic what's going on deep beneath. 
 
