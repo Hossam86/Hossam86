@@ -11,6 +11,7 @@ I have been involved in all software development life cycle phases, from require
 ## Skills:  
 * C 
 * C++
+* QML/HMI
 * Multithreading 
 * Computational Geometry 
 * Image Processing 
