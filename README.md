@@ -26,7 +26,8 @@ I have been involved in all software development life cycle phases, from require
 - 👯 I’m looking to collaborate on opensource project
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam86)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam86)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam86&show_icons=true&theme=radical)
 
 <!--
 **Hossam86/Hossam86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
