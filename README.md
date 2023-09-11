@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hossam
-#### Software engineer with a good mathematical background 
+#### Software engineer with solid mathematical and statistical background
 Throughout my career, I had the opportunity to work on various projects that involved developing software applications for different industries, such as 3D CAD, Digital Dentistry, and Gaming. Now I focus on utilizing state-of-the-art mathematical modeling, computational geometry, and computer vision algorithms in developing scientific 3D AI-enabled tools to solve complex problems also, I enjoy identifying the root causes of the problems by mathematical modeling, statistical modeling, data models, or even  3D numerical simulation to mimic what's going on deep beneath. 
 
 I have been involved in all software development life cycle phases, from requirement gathering and designing to coding, testing, and maintenance. I have extensive knowledge of object-oriented and data-oriented programming concepts, algorithms, and data structures, which have helped me to develop high-quality, efficient, and scalable applications.
