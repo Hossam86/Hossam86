@@ -19,8 +19,6 @@ I have been involved in all software development life cycle phases, from require
 * Computer Vision 
 * SLAM 
 
-- 🔭 I’m currently working on refactoring the game from Unity to Unreal Engine 5.0 
-- 🌱 I’m currently learning high-frequency trading algorithms 
 - 📫 How to reach me: hossamsamir@outlook.com
 - 👯 I’m looking to collaborate on an opensource project
 
