@@ -11,7 +11,8 @@ I have been involved in all software development life cycle phases, from require
 * C 
 * C++
 * QML/HMI
-* Multithreading 
+* Multithreading
+* Visualization 
 * Computational Geometry 
 * Image Processing 
 * Machine Learning 
