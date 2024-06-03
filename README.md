@@ -21,7 +21,7 @@ I have been involved in all software development life cycle phases, from require
 * SLAM 
 
 - 📫 How to reach me: hossamsamir@outlook.com
-- 👯 I’m looking to collaborate on an opensource project
+<!-- 👯 I’m looking to collaborate on an opensource project-->
 
 
 
