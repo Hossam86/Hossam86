@@ -1,24 +1,24 @@
 ### Hi there 👋, I'm Hossam
-#### Software engineer with solid mathematical and statistical background
-Throughout my career, I had the opportunity to work on various projects that involved developing software applications for different industries, such as 3D CAD, Digital Dentistry, and Gaming. Now I focus on utilizing state-of-the-art mathematical modeling, computational geometry, and computer vision algorithms in developing scientific 3D AI-enabled tools to solve complex problems also, I enjoy identifying the root causes of the problems by mathematical modeling, statistical modeling, data models, or even  3D numerical simulation to mimic what's going on deep beneath. 
+#### Software Engineer with a Solid Mathematical and Statistical Background
+Throughout my career, I've had the opportunity to work on diverse projects across various industries, including 3D CAD, Digital Dentistry, and Gaming. Currently, I focus on leveraging advanced mathematical modeling, computational geometry, and computer vision algorithms to develop scientific 3D AI-enabled tools that solve complex problems. I enjoy identifying the root causes of issues through mathematical modeling, statistical analysis, data models, and 3D numerical simulations to understand the underlying processes.
 
-I have been involved in all software development life cycle phases, from requirement gathering and designing to coding, testing, and maintenance. I have extensive knowledge of object-oriented and data-oriented programming concepts, algorithms, and data structures, which have helped me to develop high-quality, efficient, and scalable applications.
+Recently, I've expanded my expertise to include developing 3D web viewers based on WebAssembly technology, enhancing the performance and interactivity of web-based applications.
 
+I have been involved in all phases of the software development life cycle, from requirement gathering and design to coding, testing, and maintenance. My extensive knowledge of object-oriented and data-oriented programming concepts, algorithms, and data structures has enabled me to develop high-quality, efficient, and scalable applications.
 
-
-
-## Skills:  
-* C 
-* C++
-* QML/HMI
-* Multithreading
-* Visualization 
-* Computational Geometry 
-* Image Processing 
-* Machine Learning 
-* Deep Learning 
-* Computer Vision 
-* SLAM 
+Skills:
+C
+C++
+QML/HMI
+Multithreading
+Visualization
+Computational Geometry
+Image Processing
+Machine Learning
+Deep Learning
+Computer Vision
+SLAM
+WebAssembly
 
 - 📫 How to reach me: hossamsamir@outlook.com
 <!-- 👯 I’m looking to collaborate on an opensource project-->
