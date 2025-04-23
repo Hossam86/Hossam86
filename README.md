@@ -7,18 +7,18 @@ Recently, I've expanded my expertise to include developing 3D web viewers based 
 I have been involved in all phases of the software development life cycle, from requirement gathering and design to coding, testing, and maintenance. My extensive knowledge of object-oriented and data-oriented programming concepts, algorithms, and data structures has enabled me to develop high-quality, efficient, and scalable applications.
 
 Skills:
-C
-C++
-QML/HMI
-Multithreading
-Visualization
-Computational Geometry
-Image Processing
-Machine Learning
-Deep Learning
-Computer Vision
-SLAM
-WebAssembly
+* C
+* C++
+* QML/HMI
+* Multithreading
+* Visualization
+* Computational Geometry
+* Image Processing
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* SLAM
+* WebAssembly
 
 - 📫 How to reach me: hossamsamir@outlook.com
 <!-- 👯 I’m looking to collaborate on an opensource project-->
